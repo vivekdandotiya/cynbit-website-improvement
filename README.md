@@ -139,7 +139,7 @@ cynbit-website-improvement/
 
 ### Step 1: Clone or navigate to the repository
 ```bash
-git clone https://github.com/Vivek-Dandotiya/cynbit-website-improvement.git
+git clone https://github.com/vivekdandotiya/cynbit-website-improvement.git
 cd cynbit-website-improvement
 ```
 
@@ -317,5 +317,5 @@ The optimized assets will be emitted to `client/dist/`.
 - **Email:** vivekdandotiya772@gmail.com
 - **Role:** Full Stack Developer Intern
 - **Company:** Cynbit Technologies
-- **GitHub Repository:** [https://github.com/Vivek-Dandotiya/cynbit-website-improvement](https://github.com/Vivek-Dandotiya/cynbit-website-improvement)
+- **GitHub Repository:** [https://github.com/vivekdandotiya/cynbit-website-improvement](https://github.com/vivekdandotiya/cynbit-website-improvement)
 - **Technical Report:** [TECHNICAL_REPORT.md](./TECHNICAL_REPORT.md)

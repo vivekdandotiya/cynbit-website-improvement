@@ -10,7 +10,7 @@
 **Assessment Title:** Full Stack Developer Intern — Task: Improve Cynbit's Website  
 **Date of Completion:** October 20, 2026  
 **Repository Name:** `cynbit-website-improvement`  
-**GitHub URL:** [https://github.com/Vivek-Dandotiya/cynbit-website-improvement](https://github.com/Vivek-Dandotiya/cynbit-website-improvement)  
+**GitHub URL:** [https://github.com/vivekdandotiya/cynbit-website-improvement](https://github.com/vivekdandotiya/cynbit-website-improvement)  
 **Live Demo Deployment URL:** [https://cynbit-website-improvement.vercel.app](https://cynbit-website-improvement.vercel.app) *(Deployment target configured via Vercel & Render)*  
 
 ---
@@ -271,7 +271,7 @@ Tests: 4 passed (4)
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/Vivek-Dandotiya/cynbit-website-improvement.git
+git clone https://github.com/vivekdandotiya/cynbit-website-improvement.git
 cd cynbit-website-improvement
 
 # 2. Install all dependencies
