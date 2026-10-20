@@ -1,0 +1,29 @@
+{
+  "name": "cynbit-website-improvement",
+  "version": "1.0.0",
+  "description": "Cynbit Technologies Technical Assessment - Next-Gen Guided Project Inquiry & Scope Configurator",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "build": "npm run build --prefix client",
+    "test": "npm run test --prefix server && npm run test --prefix client",
+    "test:server": "npm run test --prefix server",
+    "test:client": "npm run test --prefix client",
+    "start": "node server/src/index.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "keywords": [
+    "cynbit",
+    "ai-automation",
+    "inquiry-portal",
+    "full-stack",
+    "react",
+    "express"
+  ],
+  "author": "Vivek Dandotiya",
+  "license": "MIT"
+}
